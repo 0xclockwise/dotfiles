@@ -1,0 +1,15 @@
+cfi ~/.config/i3/config
+cfb ~/.bashrc
+S ~/Source
+D ~/Downloads
+d ~/Documents
+W ~/Workspace
+e /etc
+dv /dev
+u /usr
+cf ~/.config
+r ~/Remote
+ft /etc/fstab
+s ~/.config/shortcuts
+sc ~/.scripts
+xrc ~/.xinitrc
